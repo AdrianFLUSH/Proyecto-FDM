@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "676212681854",
+    "project_id": "appjuegos-24210",
+    "storage_bucket": "appjuegos-24210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676212681854:android:6758b7d8af5af31cb1bc2f",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676212681854-7903bpf3i0j1m82r45ods85tombqo5dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZjsJ1_im1ySN9VeDXQQSukQ9Zi5Oq7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676212681854-7903bpf3i0j1m82r45ods85tombqo5dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676212681854:android:fc0a039d3f9a3f66b1bc2f",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676212681854-7903bpf3i0j1m82r45ods85tombqo5dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZjsJ1_im1ySN9VeDXQQSukQ9Zi5Oq7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676212681854-7903bpf3i0j1m82r45ods85tombqo5dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
